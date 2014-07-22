@@ -1,7 +1,7 @@
-vagrant-angularjs
+vagrant-mean
 ==============
 
-Bootstrap your AngularJS project with Vagrant.
+Bootstrap your MEAN project with Vagrant.
 
 $ vagrant up  
 $ vagrant ssh  
